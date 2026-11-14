@@ -1,0 +1,13 @@
+*.xlsx
+*.xls
+*.doc
+*.docx
+*.pdf
+*.png
+*.ofig
+*.saving_in_progress
+*.octave
+octave-workspace
+.env
+.env.*
+*.log
